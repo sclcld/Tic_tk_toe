@@ -1,0 +1,21 @@
+Tic Tac Toe 
+
+Tic Tac Toe is a small program created for educational purposes. The game is a retro-style version of the classic Tic Tac Toe, featuring a graphical user interface (GUI) and built-in artificial intelligence (AI).
+Contents
+
+    • main.py: This file is the entry point of the program. It calls the main GUI.
+    • gui.py: The gui.py module handles the game's user interface. It includes various sub-menus and animations for a retro gaming experience.
+    • ai.py: This module contains two main classes, GameStat and Ai, which manage the game's artificial intelligence.
+
+Features
+
+    • Retro User Interface: The main GUI provides a retro-themed interface with animations and sub-menus to enhance the gaming experience.
+    • Play Against AI: You can play against the AI in single-player mode. The AI utilizes the GameStat and Ai classes to make game decisions.
+    • Move Recording: Move input is done through the GUI, which has a control grid that records all moves made and passes them to the AI classes.
+
+Note on Unused Built-in Functions
+
+It's important to note that some of the functions written in the code correspond to Python's built-in functions, which may not have been used directly in the program. This project was created specifically for practicing Python, so you might find custom implementations for educational purposes.
+Contributions
+
+We welcome contributions and collaborations. If you'd like to improve this project or add new features, feel free to fork the repository and submit a pull request.
