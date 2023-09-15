@@ -1,6 +1,6 @@
 Tic Tac Toe 
 
-Tic Tac Toe is a small program created for educational purposes. The game is a retro-style version of the classic Tic Tac Toe, featuring a graphical user interface (GUI) and built-in artificial intelligence (AI).
+Tic Tac Toe is a small program created in Python for educational purposes. The game is a retro-style version of the classic Tic Tac Toe, featuring a graphical user interface (GUI) and built-in artificial intelligence (AI).
 Contents
 
     • main.py: This file is the entry point of the program. It calls the main GUI.
